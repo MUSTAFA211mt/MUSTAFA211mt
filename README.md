@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @MUSTAFA211mt
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# mt_amino_library
 
-<!---
-MUSTAFA211mt/MUSTAFA211mt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+مكتبة `mt_amino_library` هي أداة قوية تساعد على تحليل البيانات ومعالجتها باستخدام Python.
+
+## المميزات:
+- دعم كامل لإصدارات Python 3.6 وأحدث.
+- تصميم مرن وسهل الاستخدام.
+
+## التثبيت
+قم بتثبيت المكتبة باستخدام الأمر التالي:
+```bash
+pip install mt_amino_library
